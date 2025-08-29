@@ -26,6 +26,7 @@ body{
     border: 1.4px solid black;
     margin-bottom: 1rem;
     width: 90%;
+    height:1.5rem;
     margin-left: 0.8rem;
     padding-left: 0.5rem;
     padding-top: 0.5rem;
@@ -35,6 +36,8 @@ body{
 .question{
     margin-bottom: 1rem;
     margin-left: 0.8rem;
+    
+    min-height: 5rem;
 }
 .nav{
     text-align: center;
